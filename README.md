@@ -5,8 +5,6 @@
 
 👯 I’m looking to collaborate on Desarrollo Back-End
 
-👨‍💻 All of my projects are available at https://www.linkedin.com/in/jean-reveiz-58261923a/
-
 📝 I regularly write articles on Telegram
 
 💬 Ask me about Ethical hacking (Rdes,web,infraestructure,social engineer,etc), OSINT, API Rest, SGSI, DRP,
