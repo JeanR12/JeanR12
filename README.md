@@ -6,7 +6,7 @@
 
 📝 I regularly write articles on Telegram
 
-💬 Ask me about Ethical hacking (Rdes,web,infraestructure,social engineer, OSINT, API Rest, SGSI, DRP)
+💬 Ask me about Ethical hacking (Rdes, web, infraestructure, social engineer, OSINT, API Rest, SGSI, DRP)
 
 📫 How to reach me on Linkedin
 
