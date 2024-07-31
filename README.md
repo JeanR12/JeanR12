@@ -1,17 +1,14 @@
 # 💫About Me :
-🔭 I’m currently working on TGR
 
 🌱 I’m currently learning Framework core, SGSI, Ensamblador...
 
-👯 I’m looking to collaborate on Desarrollo Back-End
+👯 I’m looking to collaborate on Development Back-End
 
 📝 I regularly write articles on Telegram
 
-💬 Ask me about Ethical hacking (Rdes,web,infraestructure,social engineer,etc), OSINT, API Rest, SGSI, DRP,
+💬 Ask me about Ethical hacking (Rdes,web,infraestructure,social engineer, OSINT, API Rest, SGSI, DRP)
 
-📫 How to reach me Jeanpierrereveizbarrero@gmail.com
-
-📄 Know about my experiences [I have developed skills such as Ethical Hacker (Web infrastructure tester, network testing (TCP/IP), devices, api's, malware development, payloads, OSINT, among others), also network team and blue team skills (I am currently a purple team), Network Defender, computer forensic processes and Rest API.](I have developed skills such as Ethical Hacker (Web infrastructure tester, network testing (TCP/IP), devices, api's, malware development, payloads, OSINT, among others), also network team and blue team skills (I am currently a purple team), Network Defender, computer forensic processes and Rest API.)
+📫 How to reach me on Linkedin
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
